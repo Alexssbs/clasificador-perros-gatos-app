@@ -303,10 +303,6 @@ Asegúrate de que los archivos estén en `models/` o en la raíz del proyecto. E
 
 ---
 
-## 👥 Autor
-
-**Proyecto de Visión Artificial — Primera Unidad**
-
 <div align="center">
 
 ⭐ Si este proyecto te resultó útil, considera darle una estrella ⭐
