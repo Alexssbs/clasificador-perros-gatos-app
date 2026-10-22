@@ -1,0 +1,7 @@
+# Instalar primero torch y torchvision con el comando CPU del LEEME.
+keras==3.15.1
+PyQt5>=5.15,<6
+opencv-python>=4.10,<5
+Pillow>=10,<13
+numpy>=1.26,<3
+h5py>=3.11,<4
